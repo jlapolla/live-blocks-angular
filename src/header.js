@@ -1,0 +1,3 @@
+this.angular = {};
+(function(angular){
+

@@ -1,0 +1,3 @@
+this.directives = {};
+(function(angular){
+
